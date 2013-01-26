@@ -23,6 +23,12 @@
       "email": "sidoares@yandex.ru"
     }
   ],
+  "contributors": [
+    {
+      "name": "rektide",
+      "email": "rektide@voodoowarez.com"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -35,6 +41,7 @@
     "abstract-socket": "^0.1.0",
     "event-stream": "^3.1.7",
     "put": "0.0.6",
+    "q": "0.8.12",
     "xml2js": "0.1.14"
   },
   "devDependencies": {
